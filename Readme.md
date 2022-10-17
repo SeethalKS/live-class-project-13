@@ -2,9 +2,9 @@
 
 ## This is the design which is given to convert into a web page👇
 
-![Website Design in image format](./1.png)
-![Website Design in image format](./2.png)
-![Website Design in image format](./3.png)
+![Website Design in image format](./1.jpeg)
+![Website Design in image format](./2.jpeg)
+![Website Design in image format](./3.jpeg)
 
 ### It takes me 1 days to complete this project and css properties such as CSS Selectors, Positions, flexbox used .
 
